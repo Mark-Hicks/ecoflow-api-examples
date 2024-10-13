@@ -104,7 +104,7 @@ if __name__ == "__main__":
     {'name'   : 'Delta Pro',
      'sn'     : 'DCABZ0123456789' ,
      'quotas' : ["pd.beepState","mppt.carState","inv.cfgAcEnabled","inv.cfgAcXboost"],
-     'setting': 'Silent Mode','mod':'','op':'',
+     'setting': 'Silent Mode','mod':0,'op':'TCP',
      'params' : [{"cmdSet":32,"id":38,"enabled":1},{"cmdSet":32,"id":38,"enabled":0}]
     },
 
